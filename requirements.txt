@@ -1,0 +1,17 @@
+pyarrow==18.0.0
+Pygments==2.18.0
+pytz==2024.2
+rpds-py==0.21.0
+setuptools==75.2.0
+six==1.16.0
+smmap==5.0.1
+tenacity==9.0.0
+toml==0.10.2
+tornado==6.4.2
+typing_extensions==4.12.2
+tzdata==2024.2
+urllib3==2.2.3
+watchdog==6.0.0
+wheel==0.44.0
+
+streamlit~=1.40.1
